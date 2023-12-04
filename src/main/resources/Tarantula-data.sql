@@ -1,0 +1,1 @@
+insert into tarantula (climate, common_name, dimorphism, genus, habitat, leg_span, temperament) values ('Hot', 'Purple Pink Toe', True, 'Avicularia', 'Arboreal', 12, 'Docile');
