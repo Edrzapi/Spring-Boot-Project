@@ -1,2 +1,0 @@
-# SimpleSpringExample
-SimpleSpringExample
